@@ -2,7 +2,7 @@
 - Network Admin / SysAdmin
 - **Specialist**: Linux, Networking, Security, IoT, Embebbed Devs, Red Team, Pentester
 - **Everyday**: Web and Cloud enviroment: Agent with HIGH **expertise** on field
-- **Eat**: Bash, RegExr, C++, Arduino, Python
+- **Eat**: Bash, RegEx, C++ Arduino, Python
 
 
 <!---
