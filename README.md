@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @atmozphera
 - Network Admin / SysAdmin
 - **Specialist**: Linux, Networking, Security, IoT, Embebbed Devs, Red Team, Pentester
-- **Everyday**: Web and Cloud enviroment expersite field
+- **Everyday**: Web and Cloud enviroment: Agent with HIGH **expertise** on field
 - **Eat**: Bash, RegExr, C++, Arduino, Python
 
 
