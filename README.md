@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @atmozphera
-- **Skills**: Network Admin / SysAdmin
-- **Specialist**: Linux, Networking, Security, IoT, Embedded Devices, Red Team, Pentester
-- **Everyday**: Web and Cloud enviroment: Agent with HIGH **expertise** on field
-- **Eat**: Shell Scripting, RegEx, C++ Arduino, Python.
+- `Specialist`: Network Admin / SysAdmin / Datacenter Tier III Agent (expertise on field)
+- `Skills`: Linux, Networking, Security, IoT, Embedded Devices, Red Team, Pentester
+- `Everyday`: Web and Cloud enviroment with proficiency and scalability
+- `Eat`: Shell Scripting, RegEx, C++ Arduino, Python.
 
