@@ -3,3 +3,4 @@
 - `Skills`: Linux, Networking, Security, IoT, Embedded Devices, Red Team and Pentester
 - `Everyday`: Web and Cloud enviroment with proficiency and scalability
 - `Eat`: Shell Scripting, RegEx, C++ Arduino and Python
+- `Past`: Active collaboration and Global Moderator on _SuSE Linux_ (Oracle) forum in Brazil between 2005 until 2008.
