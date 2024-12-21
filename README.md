@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @atmozphera
 - `Specialist`: Network Admin & SysAdmin & Datacenter Tier III Agent (expertise on field)
-- `Skills`: Linux, Networking, Security, IoT, Embedded Devices, Red Team and Pentester
+- `Skills`: Linux, Networking, Security, IoT, Embedded Devices, Pentester
 - `Everyday`: Web and Cloud enviroment with proficiency and scalability
-- `Eat`: Shell Scripting, RegEx, C++ Arduino and Python
-- `Past`: Active collaboration and Global Moderator on _SuSE Linux_ (Oracle) forum in Brazil between 2005 until 2008.
+- `Eat`: Shell Script, RegEx, C++ Arduino, GO and Python
+- `Past`: Active collaboration and global moderator on _SuSE Linux_ (Oracle) forum in Brazil from 2005 until 2008.
